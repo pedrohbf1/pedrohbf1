@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2>Frontend Developer</h2> 
 
-<!--
-**pedrohbf1/pedrohbf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇧🇷
 
-Here are some ideas to get you started:
+  + 👋 Ola, meu nome é Pedro Henrique Bahia Freitas, sou desenvolvedor front-end 
+  + 👀 Tenho interesse em natureza, viagens e programação
+  + 💡 Meu primeiro contato com programação foi em 2022, com VBA. Deste então me apaixonei na área
+  + 📫 Como me encontrar: +55 37 9 9145-3323 ou contactpedrohbf@gmail.com 
+  
+🇺🇸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  + 👋 Hi, my name is Pedro Henrique Bahia Freitas, I'm a front-end developer
+  + 👀 I’m interested in nature, travels and coding
+  + 💡 My first contact with programming was in 2022, with VBA. Since then I fell in love with the area
+  + 📫 How to reach me: +55 37 9 9145-3323 or contactpedrohbf@gmail.com
