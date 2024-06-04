@@ -1,4 +1,4 @@
-<h2>Frontend Developer</h2> 
+<h2>Full-stack Developer</h2> 
 
 🇧🇷
 
