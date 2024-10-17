@@ -66,7 +66,7 @@
 <a href="https://instagram.com/pedrohbf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrohbf1" height="30" width="40" /></a>
 </p>
 
-[snake gif](https://github.com/your-user-name/pedrohbf1/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/pedrohbf1/pedrohbf1/blob/output/github-contribution-grid-snake.gif)
 
 <h2>
   🧠 No matter the size of the obstacle, success is for those who persist.
