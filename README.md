@@ -19,14 +19,14 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="42" height="42" /></a></p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pedro-henrique-2a861827b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-henrique-2a861827b" height="30" width="40" /></a>
 <a href="https://instagram.com/pedrohbf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrohbf1" height="30" width="40" /></a>
 </p>
 
-<h1>
-My life is a plot full of twists and turns and determination is the common thread that always guides me to a glorious outcome.
+<h2>
+  🧠 My life is a plot full of twists and turns and determination is the common thread that always guides me to a glorious outcome.
 </h1>
 
 
