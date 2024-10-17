@@ -27,6 +27,10 @@
 
 <h2>
   🧠 My life is a plot full of twists and turns and determination is the common thread that always guides me to a glorious outcome.
-</h1>
+</h2>
+
+<h2>
+  🧠 No matter the size of the obstacle, success is for those who persist.
+</h2>
 
 
