@@ -13,6 +13,7 @@
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" width="42" height="42" />
 <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" alt="PostgreSQL" width="42" height="42" />
 <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=sequelize&theme=dark" alt="Sequelize" width="42" height="42" />
 <img src="https://skillicons.dev/icons?i=svelte&theme=dark" alt="Svelte" width="42" height="42" />
 <img src="https://skillicons.dev/icons?i=electron&theme=dark" alt="Electron" width="42" height="42" />
 <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="42" height="42" />
