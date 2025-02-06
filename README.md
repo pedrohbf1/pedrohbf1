@@ -2,8 +2,9 @@
 <p>Hi, My name is Pedro Henrique, i am developer full-stack. I'm glad you're here! Feel free to reach out to me via phone at +55 37 9 9145-3323 or email at contactdevpedro@gmail.com.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nodejs,express,mysql,postgresql,docker,svelte,electron,git,github,redux,regex,firebase,npm,vercel&theme=dark" alt="Languages and Tools" width="42" height="42" />
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
+    
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
